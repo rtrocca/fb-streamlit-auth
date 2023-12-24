@@ -1,0 +1,1 @@
+recursive-include fb_streamlit_auth/frontend/dist *
